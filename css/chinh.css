@@ -175,7 +175,7 @@
 		width: 7%;
 			height: 100px;
 			
-			margin-left: 180px;
+			margin-left: 160px;
 			margin-bottom: 50px;	
 			float: left;
 }
@@ -539,7 +539,7 @@ img {vertical-align: middle;}
 	
 .label {
 	width: 100px;
-	height: 50px;
+	height: 60px;
 	background-color: #F1F044;
 	position: absolute;
 	top:60px;
