@@ -11,14 +11,13 @@
 			width: 100%;
 			height: 50px;
 			position: relative;
-			font-family: Baskerville, "Palatino Linotype", Palatino, "Century Schoolbook L", "Times New Roman", "serif";
-	color: #1543D8;
+			
 			color: aliceblue;
 }
 .idea h3 {
 	text-align: left;
 	padding: 5px 5px 5px 5px;
-	font-family: Baskerville, "Palatino Linotype", Palatino, "Century Schoolbook L", "Times New Roman", "serif";
+	
 	color: #1543D8;
 	color: aliceblue;
 }
@@ -44,7 +43,7 @@
 }
 .khung33 {
 		width: 200px;
-		height: 50px;
+		height: 80px;
 		border-color: #000000;
 		margin-top: 20px;
 		border: 2px solid #000000;
