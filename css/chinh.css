@@ -219,7 +219,7 @@
 .khung71 h1 {
 	text-align: center;
 	font-size: 50px;
-	margin-top: 90px;
+	margin-top: 20%;
 }
 
 .khung72 {
@@ -227,7 +227,7 @@
 			height: 60px;
 			
 			margin-left: 100px;
-			margin-top: 2500px;
+			margin-top: 20%;
 				
 			float: left;
 }
